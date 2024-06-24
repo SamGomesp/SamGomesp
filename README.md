@@ -1,6 +1,6 @@
 <h2 align="center" >Tecnologias</h2>
 
-![GIF Ilustrativo](https://cdn.discordapp.com/emojis/1220507914792599554.gif?size=96&quality=lossless)
+
 
 ###
 
