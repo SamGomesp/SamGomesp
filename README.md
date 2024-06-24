@@ -64,6 +64,4 @@
 
 ###
 
-<p align="center">
-  <img src="path/to/your/custom-animated-text.svg">
-</p>
+
