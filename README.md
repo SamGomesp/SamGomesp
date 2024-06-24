@@ -39,7 +39,7 @@
 
 <div>
   <img align="left" height="150" src="https://i.pinimg.com/564x/01/d3/c8/01d3c8a31789729d0c12a95dc47c081b.jpg"  />
-  <h3 align="left">💜Contacts:💜</h3>
+  <h3 align="left">💜Contacts💜</h3>
 </div>
 
 ###
@@ -53,9 +53,6 @@
   </a>
   <a href="https://www.linkedin.com/in/samuel-gomes-481062316/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:samgomes.dev@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
 
