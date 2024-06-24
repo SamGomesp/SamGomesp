@@ -1,4 +1,6 @@
-<h2 align="center">Tecnologias:</h2>
+<h2 align="center">Tecnologias</h2>
+
+![GIF Ilustrativo](https://cdn.discordapp.com/emojis/1220507914792599554.gif?size=96&quality=lossless)
 
 ###
 
@@ -31,25 +33,41 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SamGomesp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamGomesp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
 </div>
 
 ###
 
-<br clear="both">
-
-<h3 align="left">💜Contacts:</h3>
+<div>
+  <img align="left" height="150" src="https://i.pinimg.com/564x/01/d3/c8/01d3c8a31789729d0c12a95dc47c081b.jpg"  />
+  <h3 align="left">💜Contacts:💜</h3>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.instagram.com/sam.pongp/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  
+  <a href="https://discordapp.com/users/353247502385938432">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/samuel-gomes-481062316/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  
+  <a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCJNqLRtdgRgSrrfjKSgzJTcKWNJhXMpSrntdvfRcWGgdfZWvMVmLFGgkVDMPfLSPTJpRhpg">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
 </div>
+</div>
+<br clear="both">
 
 ###
 
 <img src="https://raw.githubusercontent.com/SamGomesp/SamGomesp/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
