@@ -37,7 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 <div>
-  <img align="left" height="150" src="https://i.pinimg.com/564x/01/d3/c8/01d3c8a31789729d0c12a95dc47c081b.jpg"  />
+ <img align="left" height="250" width="250" src="https://private-user-images.githubusercontent.com/157834513/342965143-c072b9c5-fd9f-41a9-9666-e599bc217868.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTkzNjA2NTksIm5iZiI6MTcxOTM2MDM1OSwicGF0aCI6Ii8xNTc4MzQ1MTMvMzQyOTY1MTQzLWMwNzJiOWM1LWZkOWYtNDFhOS05NjY2LWU1OTliYzIxNzg2OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyNlQwMDA1NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02YzQ3OWRlZmEwNWIwYTU4MzdlMjVmNWVlMzRlZTg0ZTEwZjA0NjRmM2EzYzYxZDI1MDM2ZjI5ZmNiZGY0MjE3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.cpH4ddJQ5Nth5NLQ9b2_khiVpkZrkQXi_b8FWCex7SM"/>
+
   <h3 align="left"> 💜 Contacts 💜</h3>
 </div>
 
